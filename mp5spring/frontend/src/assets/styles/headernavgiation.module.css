@@ -1,0 +1,23 @@
+.ulContainer{
+    /* justify-content: center;
+    justify-items: center; */
+}
+
+.navbar{
+    list-style: none;
+    overflow: hidden;
+    display: flex;
+    
+    max-width: 100%;
+    /* text-align: center; */
+    justify-content: center;
+    /* justify-items: unset; */
+    
+}
+
+.navbar li{
+    /* background-color: red; */
+    /* justify-content: center; */
+    padding: 0px 10px 0px 10px;
+    margin: 0px 10px 0px 10px;
+}
